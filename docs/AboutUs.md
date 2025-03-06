@@ -9,51 +9,51 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 ## Project team
 
-### John Doe
+### Liu Jihan
 
-<img src="images/johndoe.png" width="200px">
+<img src="file:///D:/CS2103T%20Git/tP/docs/images/liu-jihan.png" width="200px">
 
 [[homepage](http://www.comp.nus.edu.sg/~damithch)]
-[[github](https://github.com/johndoe)]
+[[github](https://github.com/Liu-Jihan)]
 [[portfolio](team/johndoe.md)]
 
 * Role: Project Advisor
 
-### Jane Doe
+### Ng Wan Ting Eunice
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/Eun777.png" width="200px">
 
-[[github](http://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
+[[github](http://github.com/Eun777)]
+[[portfolio](https://www.linkedin.com/in/eunice-ng-wt)]
 
-* Role: Team Lead
-* Responsibilities: UI
+* Role: Documentation
+* Responsibilities: UX, Documentation
 
-### Johnny Doe
+### Luoqi Xu
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/luoq1-xu.png" width="200px">
 
-[[github](http://github.com/johndoe)] [[portfolio](team/johndoe.md)]
+[[github](https://github.com/Luoq1-Xu)] [[portfolio](https://crowded-kittens.vercel.app/about)]
 
 * Role: Developer
-* Responsibilities: Data
+* Responsibilities: Develop functionalities for the app, including commands and features.
 
-### Jean Doe
+### Tan Sze Ling
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/szelingtan.png" width="200px">
 
-[[github](http://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
+[[github](http://github.com/szelingtan)]
+[[portfolio](https://www.linkedin.com/in/sze-ling-tan-921b74263/)]
 
 * Role: Developer
 * Responsibilities: Dev Ops + Threading
 
-### James Doe
+### Sanchez Bryce Ainsley Ang
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/bryce-3d.png" width="200px">
 
-[[github](http://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
+[[github](https://github.com/Bryce-3D)]
+[[portfolio](https://www.linkedin.com/in/bryce3d/)]
 
-* Role: Developer
-* Responsibilities: UI
+* Role: Software Engineer
+* Responsibilities: Backend or something
