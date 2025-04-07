@@ -1,3 +1,8 @@
+---
+layout: page
+title: Developer Guide
+---
+
 ## **Acknowledgements**
 
 * We would like to acknowledge the following repository as the foundational starting point for our project:
